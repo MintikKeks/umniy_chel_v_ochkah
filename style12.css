@@ -1,8 +1,10 @@
-body {
+ body {
     margin: 0;
     padding: 0;
     background-image: url(https://memepedia.ru/wp-content/uploads/2025/07/umnyj-chelovek-v-ochkah-768x512.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-}
+    height: 100vh;
+ }
+
