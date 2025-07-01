@@ -1,5 +1,6 @@
 body {
     background-image: url(https://memepedia.ru/wp-content/uploads/2025/07/umnyj-chelovek-v-ochkah-768x512.jpg);
     background-repeat: no-repeat;
-    background: 100vh;
+    background-size: cover;
+    background-position: center;
 }
